@@ -1,6 +1,6 @@
 # Hi, I'm Cristian Marcu
 
-I'm a Junior iOS / Mobile Developer focused on SwiftUI, Flutter, React Native and QA Testing.
+Junior iOS / Mobile Developer focused on SwiftUI, Flutter, React Native and QA Testing.
 
 ## Technologies & Tools
 
